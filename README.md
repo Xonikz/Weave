@@ -6,7 +6,8 @@
 
 Weave is a fully offline, one-click install Retrieval-Augmented Generation (RAG) companion application designed to run seamlessly alongside **LM Studio**. It provides an isolated workspace environment for ingesting diverse file types, chatting with your local LLMs, and generating high-fidelity audio synthesis.
 
-*(Insert a screenshot of the Weave UI here later by dragging and dropping an image into the GitHub editor!)*
+
+<img width="720" height="480" alt="Weave UI" src="https://github.com/user-attachments/assets/38ec9388-712b-4e70-af02-dd04a0ca46f5" />
 
 ---
 
